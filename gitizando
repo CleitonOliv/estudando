@@ -332,3 +332,7 @@ rules: ({
 # @include "extra.conf"
 
 branch versionamento editando arquivo.
+
+
+aqui vou fazer alguns testes com o arquivo ou programa.
+ja posso começar por agora, fazendo merge com versionamento antes de chegar na main.
